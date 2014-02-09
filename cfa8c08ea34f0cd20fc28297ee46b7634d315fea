@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_ee030475",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "Looks like everybody has different opinion what this should be :)",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_8ed8781f",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "hmmm. what is that good for? are there no defaults?",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_0eec68c6",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "What userspace prg needs to access this?",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_6ed1b4fb",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "Same here? Why do we need system access for that?",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_4ece705b",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "I think that pvrsrvinit is actually calling pvrsrvctl so we don\u0027t need that.",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_ce08c094",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 326,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "all other devices seem to have them enabled",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_aedbbc1a",
+        "filename": "root/init.acclaim.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 338,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2014-02-09T02:29:09Z",
+      "side": 1,
+      "message": "adb works fine for me. what\u0027s the issue here?",
+      "revId": "cfa8c08ea34f0cd20fc28297ee46b7634d315fea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
