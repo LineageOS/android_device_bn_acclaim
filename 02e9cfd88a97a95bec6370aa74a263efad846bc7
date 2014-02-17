@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_cb4b84af",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "Touchscreen firmware flasher",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_2bc79013",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "@string/app_name \u0026 translatable\u003d\"false\"?",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_0bcc4c34",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "No surrounding double quotes needed",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_6bd198cd",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "Detecting",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_4bd654c6",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "No surrounding double quotes needed",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fade3982_ebe5a8a8",
+        "filename": "TFF/res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2014-02-17T02:04:38Z",
+      "side": 1,
+      "message": "- I fully understand the consequences of this action",
+      "revId": "02e9cfd88a97a95bec6370aa74a263efad846bc7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
