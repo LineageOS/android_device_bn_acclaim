@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fade3982_1c9bf4ca",
+        "filename": "TFF/res/values-nl/cm_translations.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 7630
+      },
+      "writtenOn": "2014-02-18T11:03:07Z",
+      "side": 1,
+      "message": "Ik vind het een beetje krom Nederlands, Vinger loslaten, misschien Vinger van het (aanraak)scherm halen of loslaten?",
+      "revId": "ae39b4128d6550cbe9c6eb610744b7fdfba58395",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
