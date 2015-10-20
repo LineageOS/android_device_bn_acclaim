@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_c101f2b1",
+        "filename": "boot.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2015-10-20T11:16:03Z",
+      "side": 1,
+      "message": "I think that this http://review.cyanogenmod.org/#/c/113862/ suggests to add it to $(INSTALLED_RECOVERYIMAGE_TARGET)",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 1
+      },
+      "revId": "8b5e9a6779f8f233f16b3ec639f1c529629a6905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_a1fee6ab",
+        "filename": "boot.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 3917
+      },
+      "writtenOn": "2015-10-20T11:16:03Z",
+      "side": 1,
+      "message": "Somewhere here?",
+      "revId": "8b5e9a6779f8f233f16b3ec639f1c529629a6905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
