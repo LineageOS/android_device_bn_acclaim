@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5f2577a7_87a09aa7",
+        "filename": "boot.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 2644
+      },
+      "writtenOn": "2015-10-21T09:00:07Z",
+      "side": 1,
+      "message": "I tried moving it down and it crashes building the sdcard image here. We need it early on in this make process.",
+      "parentUuid": "5f2577a7_c101f2b1",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 1
+      },
+      "revId": "8b5e9a6779f8f233f16b3ec639f1c529629a6905",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f2577a7_a1fee6ab",
         "filename": "boot.mk",
         "patchSetId": 1
