@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-add_lunch_combo cm_acclaim-eng
-add_lunch_combo cm_acclaim-user
-add_lunch_combo cm_acclaim-userdebug
+add_lunch_combo lineage_acclaim-eng
+add_lunch_combo lineage_acclaim-user
+add_lunch_combo lineage_acclaim-userdebug
 add_lunch_combo full_acclaim-userdebug
