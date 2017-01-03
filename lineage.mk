@@ -1,4 +1,5 @@
 # Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -22,7 +23,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 
 DEVICE_PACKAGE_OVERLAYS += device/bn/acclaim/overlay/cm
 
-PRODUCT_NAME := cm_acclaim
+PRODUCT_NAME := lineage_acclaim
 PRODUCT_DEVICE := acclaim
 PRODUCT_MODEL := Barnes & Noble Nook Tablet
 PRODUCT_RELEASE_NAME := NookTablet
