@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Instaliranje firmware-a dodirnog zaslona</string>
+  <string name="app_name">Instaliranje firmwarea dodirnog zaslona</string>
   <string name="current_firmware">Trenutni firmware: </string>
   <string name="detecting">Otkrivanje\u2026</string>
   <string name="you_can_flash">Možete instalirati: </string>
   <string name="i_understand">Potpuno razumijem posljedice ove radnje.</string>
-  <string name="help">Pusti prst za instaliranje. Pomakni preko za odbacivanje.</string>
+  <string name="help">Podignite prst za instaliranje. Pomaknite ga da odbacite.</string>
 </resources>
