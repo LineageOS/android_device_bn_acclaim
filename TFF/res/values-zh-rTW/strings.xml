@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">觸控螢幕韌體刷入器</string>
+  <string name="app_name">觸控螢幕韌體刷入工具</string>
   <string name="current_firmware">目前韌體：</string>
   <string name="detecting">偵測中\u2026</string>
   <string name="you_can_flash">您可以刷入：</string>
