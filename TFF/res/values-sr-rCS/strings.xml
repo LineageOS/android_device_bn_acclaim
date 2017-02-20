@@ -15,11 +15,4 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-  <string name="app_name">觸控螢幕韌體刷入工具</string>
-  <string name="current_firmware">目前韌體：</string>
-  <string name="detecting">偵測中\u2026</string>
-  <string name="you_can_flash">您可以刷入：</string>
-  <string name="i_understand">我清楚此操作可能帶來的結果</string>
-  <string name="help">鬆開手指即可刷入，移開即可取消。</string>
-</resources>
+<resources></resources>
