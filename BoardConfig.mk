@@ -21,6 +21,9 @@ include hardware/ti/omap4/BoardConfigCommon.mk
 
 TARGET_SPECIFIC_HEADER_PATH += $(DEVICE_FOLDER)/include
 
+# Low Memory Device
+MALLOC_SVELTE := true
+
 # no camera
 USE_CAMERA_STUB := true
 
