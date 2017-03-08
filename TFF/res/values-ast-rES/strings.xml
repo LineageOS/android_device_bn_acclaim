@@ -15,4 +15,8 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="app_name">Flaxador de firmware de pantalla táutil</string>
+  <string name="current_firmware">Firmware actual: </string>
+  <string name="detecting">Deteutando\u2026</string>
+</resources>
