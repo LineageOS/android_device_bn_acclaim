@@ -14,8 +14,6 @@
 
 DEVICE_FOLDER := device/bn/acclaim
 
-# omap board
-TARGET_BOARD_OMAP_CPU := 4430
 # inherit from omap4
 include hardware/ti/omap4/BoardConfigCommon.mk
 
