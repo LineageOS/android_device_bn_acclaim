@@ -114,6 +114,7 @@ DEVICE_PACKAGE_OVERLAYS := $(DEVICE_FOLDER)/overlay/aosp
 
 # filesystem management tools
 PRODUCT_PACKAGES += \
+	resize2fs_static \
 	fsck.f2fs \
 	mkfs.f2fs
 
