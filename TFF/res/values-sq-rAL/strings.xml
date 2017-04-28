@@ -15,4 +15,11 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources></resources>
+<resources>
+  <string name="app_name">Instaluesi i firmware për ekran me prekje</string>
+  <string name="current_firmware">Firmware aktual: </string>
+  <string name="detecting">Duke kërkuar\u2026</string>
+  <string name="you_can_flash">Mund të instalosh: </string>
+  <string name="i_understand">I kuptoj plotësisht pasojat e këtij veprimi</string>
+  <string name="help">Lësho gishtin për të instaluar. Zhvendose për të anulluar.</string>
+</resources>
