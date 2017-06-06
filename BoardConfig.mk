@@ -73,9 +73,6 @@ TARGET_NO_RADIOIMAGE := true
 TARGET_KERNEL_CONFIG := cyanogenmod_acclaim_defconfig
 TARGET_KERNEL_SOURCE := kernel/bn/acclaim
 
-TARGET_RELEASETOOL_IMG_FROM_TARGET_SCRIPT := $(DEVICE_FOLDER)/releasetools/img_from_target_files
-TARGET_RELEASETOOL_OTA_FROM_TARGET_SCRIPT := $(DEVICE_FOLDER)/releasetools/ota_from_target_files
-
 KERNEL_TOOLCHAIN_PREFIX := arm-linux-androideabi-
 KERNEL_TOOLCHAIN := $(shell pwd)/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin
 
@@ -109,6 +106,7 @@ BOARD_SEPOLICY_DIRS += \
 	$(DEVICE_FOLDER)/sepolicy
 
 # boot.img
+BOARD_CUSTOM_BOOTIMG := true
 BOARD_CUSTOM_BOOTIMG_MK := $(DEVICE_FOLDER)/boot.mk
 TARGET_NO_BOOTLOADER := true
 TARGET_PROVIDES_RELEASETOOLS := true
